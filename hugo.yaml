@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://melodious-flan-e6237e.netlify.app"
 title: DataCed
 paginate: 5
 theme: PaperMod
@@ -50,7 +50,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "DataCed"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -71,8 +71,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Salut \U0001F596"
+    Content: Le portfolio technique de Cédric Luypaerts
 
   socialIcons:
     - name: x
@@ -80,7 +80,7 @@ params:
     - name: stackoverflow
       url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/cedluy/"
 
   analytics:
     google:
@@ -121,10 +121,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+#   - identifier: example
+#     name: example.org
+#     url: https://example.org
+#     weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
