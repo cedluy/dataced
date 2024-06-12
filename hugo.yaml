@@ -1,4 +1,4 @@
-baseURL: "https://melodious-flan-e6237e.netlify.app"
+baseURL: "https://melodious-flan-e6237e.netlify.app/"
 title: DataCed
 paginate: 5
 theme: PaperMod
